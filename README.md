@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ohana14
 - 👀 I’m interested in ...php,javascript,c#,html
-- 🌱 I’m currently learning ...php,javascript,html
+- 🌱 I’m currently learning ...php,javascript,html,css
 - 💞️ I’m looking to collaborate on ...php
 - 📫 How to reach me ...email
 - 😄 Pronouns: ...ela
